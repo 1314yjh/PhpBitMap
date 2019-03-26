@@ -1,8 +1,10 @@
+```
 $a =  array(311,22,23,5,4,159,63);
 $b =  array(311,22,23,45,46,159,63);
     	 
 $bitMapObj1 = new BitMap($a);
 $bitMapObj2 = new BitMap($b); 
+```
 
 ##### 查找某一个数字
 ```
